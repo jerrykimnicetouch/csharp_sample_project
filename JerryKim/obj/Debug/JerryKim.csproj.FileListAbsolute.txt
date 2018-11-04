@@ -1,0 +1,7 @@
+C:\Users\wsl nly\source\repos\JerryKim\JerryKim\bin\Debug\JerryKim.exe.config
+C:\Users\wsl nly\source\repos\JerryKim\JerryKim\bin\Debug\JerryKim.exe
+C:\Users\wsl nly\source\repos\JerryKim\JerryKim\bin\Debug\JerryKim.pdb
+C:\Users\wsl nly\source\repos\JerryKim\JerryKim\obj\Debug\JerryKim.csprojResolveAssemblyReference.cache
+C:\Users\wsl nly\source\repos\JerryKim\JerryKim\obj\Debug\JerryKim.csproj.CoreCompileInputs.cache
+C:\Users\wsl nly\source\repos\JerryKim\JerryKim\obj\Debug\JerryKim.exe
+C:\Users\wsl nly\source\repos\JerryKim\JerryKim\obj\Debug\JerryKim.pdb
